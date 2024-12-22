@@ -1,0 +1,7 @@
+D:\ImportantData\Coding\C#\PhotosButFast\bin\Debug\PhotosButFast.exe.config
+D:\ImportantData\Coding\C#\PhotosButFast\bin\Debug\PhotosButFast.exe
+D:\ImportantData\Coding\C#\PhotosButFast\bin\Debug\PhotosButFast.pdb
+D:\ImportantData\Coding\C#\PhotosButFast\obj\Debug\PhotosButFast.csproj.AssemblyReference.cache
+D:\ImportantData\Coding\C#\PhotosButFast\obj\Debug\PhotosButFast.csproj.CoreCompileInputs.cache
+D:\ImportantData\Coding\C#\PhotosButFast\obj\Debug\PhotosButFast.exe
+D:\ImportantData\Coding\C#\PhotosButFast\obj\Debug\PhotosButFast.pdb
